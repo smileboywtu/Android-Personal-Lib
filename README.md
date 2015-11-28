@@ -152,6 +152,6 @@ xmlns:toggle="http://schemas.android.com/apk/res-auto"
 contact 
 ======= 
 
-get a really good idear, find a bug? or you may want to get more detail, you can send 
+get a really good idea, find a bug? or you may want to get more detail, you can send 
 me an email to **294101042 at dot com **.
 
