@@ -1,10 +1,12 @@
 Android Personal Lib 
 ====================
 
-![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/1.png) "first shot"
-![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/2.png) "second shot"
-![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/3.png) "third shot"
-![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/4.png) "forth shot"
+publish the components used in my work.
+
+![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/1.png) 
+![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/2.png) 
+![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/3.png) 
+![Alt text](https://github.com/smileboywtu/Android-Personal-Lib/blob/master/snapshot/4.png) 
 
 the above show the four shot of the demo. you can see more about it from the demo dir.
 
