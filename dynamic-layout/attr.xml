@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="DynamicBackgroundLinearLayout">
+        <attr name="marginTopSize" 		format="integer" />
+        <attr name="marginBottomSize" 	format="integer" />
+        <attr name="screenWidth" 		format="integer" />
+        <attr name="screenHeight" 		format="integer" />
+        <attr name="circleNumber" 		format="integer" />
+    </declare-styleable>
+    
+</resources>
